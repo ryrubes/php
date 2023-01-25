@@ -1,0 +1,59 @@
+/* This is a partial blocks.css, you need to add more rules
+   to this file to complete the assignment.  Do not add any CSS
+   styling to the original index.htm / start.htm */
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Here is one of many  CSS rules you will need... */
+#one {
+    width: 25%;
+    border-color: blue;
+    right: 10px;
+    top: 125px;
+    position: fixed;
+    border-style: solid;
+    padding: 5px;
+    margin: 10px;
+
+}
+
+#two {
+    width: 25%;
+    border-color: green;
+    position: fixed;
+    top: 2px;
+    border-style: solid;
+    right: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+#three {
+    width: 25%;
+    border-color: orange;
+    border-style: solid;
+    padding: 5px;
+    margin: 10px;
+}
+
+#four {
+    width: 25%;
+    border-color: yellow;
+    position: fixed;
+    border-style: solid;
+    padding: 5px;
+    margin: 10px;
+}
+
+/* disable "brainy Quote hyperlink */
+a {
+    color: white;
+    background-color: blue;
+    position: relative;
+    text-align: center;
+    top: -130px;
+    margin-left: 500px;
+    pointer-events: none;
+}
