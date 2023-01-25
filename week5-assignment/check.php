@@ -1,3 +1,5 @@
+// checking to see if display_errors is set to "On" in the php.ini config file 
+
 <?php
 
 echo "<pre>\n";
