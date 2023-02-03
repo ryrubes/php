@@ -1,3 +1,3 @@
 # php-course
 
-This repo is from a PHP course. Documenting everything along the way :)
+This repo is from a PHP course called "Building Web Applications in PHP" by Dr. Charles Severance.
